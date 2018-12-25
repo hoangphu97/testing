@@ -74,7 +74,7 @@ class EditProfile extends Component {
 
 
                     <CardFooter>
-                      <Button type="submit" size="sm" sm={2}><i className="fa fa-save" />Save</Button>{' '}
+                      <Button type="submit"  sm={2}><i className="fa fa-save" />Save</Button>{' '}
                       <Button type="reset" size="sm"><i className="fa fa-ban" />Cancel</Button>
                     </CardFooter>
                 <br></br>
