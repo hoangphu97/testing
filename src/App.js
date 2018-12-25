@@ -14,7 +14,8 @@ class App extends Component {
         <Route path="/" exact component={HomePage} />
         <Route path="/following" component={Following} />
         <Route path="/followers" component={Followers} />
-        <Route path="/editprofile" component={EditProfile} />        
+        <Route path="/editprofile" component={EditProfile} />
+	<Route/>        
     </div>
   </Router>
     );
